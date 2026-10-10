@@ -1,0 +1,11 @@
+<Bindings>
+	<Binding name="WOWHEADLOOKUP_HOVER" header="WOWHEADLOOKUP" category="ADDONS">
+		WowheadLookup_LookupHovered()
+	</Binding>
+	<Binding name="WOWHEADLOOKUP_TARGET" category="ADDONS">
+		WowheadLookup_LookupTarget()
+	</Binding>
+	<Binding name="WOWHEADLOOKUP_WINDOW" category="ADDONS">
+		WowheadLookup_ToggleWindow()
+	</Binding>
+</Bindings>

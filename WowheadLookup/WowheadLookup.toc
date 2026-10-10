@@ -1,0 +1,18 @@
+## Interface: 16001
+## Title: Wowhead Lookup
+## Notes: Wowhead links for anything in game, plus drop sources, vendors, AH prices, crafting uses and quest needs in your tooltips. /wh
+## Author: dustloop
+## Version: 0.6.4
+## IconTexture: Interface\Icons\INV_Misc_Spyglass_03
+## OptionalDeps: Questie
+## SavedVariables: WowheadLookupDB
+
+Core.lua
+Data.lua
+Collect.lua
+Tooltip.lua
+Hooks.lua
+Window.lua
+Minimap.lua
+Questie.lua
+Scan.lua

@@ -1,0 +1,15 @@
+## Interface: 16001
+## Title: Wowhead Lookup |cff888888(Data)|r
+## Notes: Item, quest, NPC, spell, object, zone, faction and item set data for Wowhead Lookup.
+## Author: dustloop
+## Dependencies: WowheadLookup
+## LoadOnDemand: 1
+## Version: 1
+
+Data_Items.lua
+Data_Quests.lua
+Data_Npcs.lua
+Data_Objects.lua
+Data_Spells.lua
+Data_Other.lua
+Data_Done.lua
